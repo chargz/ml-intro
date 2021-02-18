@@ -8,7 +8,7 @@ Python 3 is required. Apart from that, a few `pip` packages are needed. The foll
 
 `pip3 install -U fbprophet pandas`
 
-If `pip` is throws errors while installing fbprophet, `conda` can be used to install the packages. [Install conda](https://docs.conda.io/en/latest/miniconda.html) and run `conda install -c conda-forge fbprophet`.
+If `pip` throws errors while installing fbprophet, `conda` can be used to install the packages. [Install conda](https://docs.conda.io/en/latest/miniconda.html) and run `conda install -c conda-forge fbprophet`.
 
 # Details
 
